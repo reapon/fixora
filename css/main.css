@@ -798,15 +798,15 @@ a .la:hover {
 .navbar-toggle .icon-bar {
   width: 30px;
   border-radius: 0;
-  background: #fff;
+  background: #441752;
 }
 
 .top-nav-collapse .icon-bar {
-  background: #333;
+  background: #441752;
 }
 
 .navbar-custom.nav-bright a {
-  color: #333;
+  color: #441752;
 }
 
 .vmenu {
@@ -3436,4 +3436,22 @@ nav.nav-demo {
   .v-center > [class*="col"] {
     padding: 40px;
   }
+}
+
+/*  */
+
+.about-us-image {
+  height: 400px;
+  width: 500px;
+}
+
+.about-us-text p {
+  line-height: 30px;
+  text-align: justify;
+}
+
+.about-us-heading {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #441752;
 }

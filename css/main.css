@@ -3447,11 +3447,32 @@ nav.nav-demo {
 
 .about-us-text p {
   line-height: 30px;
-  text-align: justify;
+  text-align: center;
 }
 
 .about-us-heading {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #441752;
+}
+
+.mvvContainer {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.mvvBox {
+  width: 33.3%;
+  padding: 40px;
+}
+.mvvBox img {
+  height: 70px;
+  margin-bottom: 50px;
+}
+
+.mvvBoxMiddle {
+  border-right: 1px solid #441752;
+  border-left: 1px solid #441752;
 }

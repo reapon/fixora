@@ -3495,3 +3495,19 @@ nav.nav-demo {
 .founder-message-paragraph {
   line-height: 40px;
 }
+
+.query-section {
+  display: flex;
+  justify-content: space-around;
+  margin-top: -20px;
+}
+
+.address-section {
+  height: 369px;
+  margin-top: 40px;
+}
+
+.footer-section {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}

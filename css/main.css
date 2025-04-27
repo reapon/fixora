@@ -3480,6 +3480,7 @@ nav.nav-demo {
 .serviceBox {
   display: flex;
   justify-content: center;
+  height: 350px;
 }
 
 .serviceBoxSecond {
@@ -3510,4 +3511,21 @@ nav.nav-demo {
 .footer-section {
   padding-top: 30px;
   padding-bottom: 20px;
+}
+
+/* .service-text {
+  margin-bottom: 10px;
+} */
+
+.icon-right-margin {
+  margin-right: 5px;
+}
+
+.service-ul {
+  line-height: 2.2;
+}
+
+.service-section {
+  padding-top: 30px;
+  padding-bottom: 0px;
 }
